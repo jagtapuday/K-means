@@ -1,2 +1,2 @@
 # K-means
-  from scratch I implement k-means algorithm.
+  From scratch I implement K-means algorithm.
